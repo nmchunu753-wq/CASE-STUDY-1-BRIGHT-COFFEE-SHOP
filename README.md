@@ -12,7 +12,7 @@ The source dataset consists of **daily transactional records** for all items sol
 - **Dataset Content:** Daily transaction records including product details, pricing, quantity, store location, and timestamps.
 - **Key Statistics:** The dataset includes **149,116 total transactions** across 9 product categories, 29 product types, and 80 SKUs.
 - **Total Revenue:** The analyzed data accounts for approximately **R698,812** in revenue over 6 months.
-- **Data Period:** 1 January 2023 – 30 June 2023
+- **Data Period:** 1 January 2026 – 30 June 2026
 
 ## Tools Used
 - **Project Planning:** Miro — used to map out the project workflow, define objectives, and structure the analysis pipeline.
@@ -62,11 +62,11 @@ The data processing phase was handled within **Databricks** using SQL to transfo
 ## Repository Structure
 - `README.md` — This project overview.
 - `Project Description:` *(https://github.com/nmchunu753-wq/CASE-STUDY-1-BRIGHT-COFFEE-SHOP/blob/main/Project%20Description%20%26%20Raw%20Data/Bright%20Coffee%20Shop%20Case%20Study%20Description.pdf)*
-- `coffee_sales_queries.sql` — *(link to Databricks SQL queries)*
-- `Miro Flowchart` — *(link to project planning board)*
-- `Gantt Time Plan` — *(link to Canva Gantt diagram)*
-- `Excel Analysis File — Pivots & Graphs:` *(link to Excel file)*
-- `BrightCoffeeShop_Presentation.pdf` — *(link to PowerPoint presentation)*
-- `Dashboards:` *(link to Power BI .pbix file)*
+- `coffee_sales_queries.sql` — *[(https://github.com/nmchunu753-wq/CASE-STUDY-1-BRIGHT-COFFEE-SHOP/blob/main/Data%20Processing/BrightCoffeeShop.sql)*
+- `Miro Flowchart` — *[(https://miro.com/app/board/uXjVHdj9uRA=/?moveToWidget=3458764673798919910&cot=14)*
+- `Gantt Time Plan` — *(https://github.com/nmchunu753-wq/CASE-STUDY-1-BRIGHT-COFFEE-SHOP/blob/main/Project%20Planning/Project%20Gantt%20Chart%20for%20BCS.png)*
+- `Excel Analysis File — Pivots & Graphs:` *(https://github.com/nmchunu753-wq/CASE-STUDY-1-BRIGHT-COFFEE-SHOP/blob/main/Data%20Processing/pivots%20and%20graphs%202.xlsx)*
+- `BrightCoffeeShop_Presentation.pdf` — *(https://github.com/nmchunu753-wq/CASE-STUDY-1-BRIGHT-COFFEE-SHOP/blob/main/Project%20Presentation/BrightCoffeeShop_Presentation.pdf)*
+- `Dashboards:` *(https://github.com/nmchunu753-wq/CASE-STUDY-1-BRIGHT-COFFEE-SHOP/blob/main/Project%20Presentation/Bright%20Coffee%20Shop%20Dashboard.pbix)*
 
 ***
